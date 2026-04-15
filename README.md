@@ -41,8 +41,7 @@ Currently leading a **300TB+ Lakehouse platform** processing **1B+ CDC events/da
 
 ## Projects
 
-### AIDE — Metadata Control Plane for Data Platforms
-https://github.com/tarodo/aide
+### [AIDE — Metadata Control Plane for Data Platforms](https://github.com/tarodo/aide)
 
 Production-grade **metadata & governance service** controlling schema evolution, data contracts, and ingestion safety.
 
@@ -51,8 +50,7 @@ Production-grade **metadata & governance service** controlling schema evolution,
 - Column-level lineage & metadata management
 - **Impact:** onboarding from 3 days → 3 hours, zero breaking schema changes in production
 
-### Clouder Core — Serverless Music Data Pipeline
-https://github.com/tarodo/clouder-core
+### [Clouder Core — Serverless Music Data Pipeline](https://github.com/tarodo/clouder-core)
 
 **Serverless ingestion + canonicalization pipeline** that collects weekly music release data from Beatport, stores raw snapshots in S3, and normalizes into PostgreSQL.
 
