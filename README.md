@@ -64,9 +64,8 @@ https://github.com/tarodo/clouder-core
 
 ## Contact
 
-- LinkedIn: https://www.linkedin.com/in/volozhanin/
-- GitHub: https://github.com/tarodo
-- Email: r.volozh@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/volozhanin/)
+- [Email](mailto:r.volozh@gmail.com)
 
 ---
 
