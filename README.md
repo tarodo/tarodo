@@ -74,7 +74,7 @@ Postgres → Debezium Server → Iceberg on MinIO with a Lakekeeper REST catalog
 
 ### [iceberg-file-formats-lab — File Formats under Iceberg, Measured](https://github.com/tarodo/iceberg-file-formats-lab)
 
-Parquet, ORC and Avro as Iceberg tables that differ in one property; Lance and Vortex against bare Parquet; Iceberg features per format on format versions 2 and 3. Every number is written by code into one journal the README is rendered from. One finding: Avro manifests carry no column bounds, so a `DELETE` that costs Parquet and ORC nothing costs Avro a deletion vector.
+Parquet, ORC and Avro as Iceberg tables that differ in one property; Lance and Vortex against bare Parquet; Iceberg features per format on format versions 2 and 3. Every number is written by code into one journal the README is rendered from.
 
 ---
 
